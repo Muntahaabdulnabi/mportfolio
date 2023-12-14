@@ -1,0 +1,20 @@
+/* Footer.css */
+
+/* Style the overall footer */
+.footer {
+  background-color: #333; /* Change this color to your preferred background color */
+  color: #fff; /* Change this color to your preferred text color */
+  padding: 20px; /* Adjust the padding according to your design */
+  text-align: center;
+}
+
+/* Style the links in the footer */
+.footer a {
+  color: #fff; /* Change this color to your preferred link color */
+  text-decoration: none;
+}
+
+/* Style the links in the footer on hover */
+.footer a:hover {
+  text-decoration: underline; /* Underline the link on hover */
+}

@@ -1,0 +1,33 @@
+/* NavBar.css */
+
+/* Style the background color and text color of the Navbar */
+.bg-body-tertiary {
+    background-color: #3498db;
+    /* Change this color to your preferred background color */
+    color: #ffffff;
+    /* Change this color to your preferred text color */
+}
+
+/* Style the Navbar links */
+.nav-link {
+    color: #ffffff;
+    /* Change this color to your preferred text color */
+}
+
+/* Style the Navbar links on hover */
+.nav-link:hover {
+    color: #ffcc00;
+    /* Change this color to your preferred hover color */
+}
+
+/* Style the Navbar brand (if you have a brand/logo in your Navbar) */
+.navbar-brand {
+    color: #ffffff;
+    /* Change this color to your preferred brand color */
+}
+
+/* Style the Navbar brand on hover */
+.navbar-brand:hover {
+    color: #ffcc00;
+    /* Change this color to your preferred hover color */
+}
